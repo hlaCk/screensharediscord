@@ -1,4 +1,4 @@
-//META{"name":"serverscreensharePlugin","displayName":"𝗦erver 𝗦creenShare By hlaCk","website":"https://www.youtube.com/user/decodercan","source":"http://decodercan.com/serverscreenshare.plugin.js"}*//
+//META{"name":"serverscreensharePlugin","displayName":"𝗦erver 𝗦creenShare By hlaCk","website":"https://www.youtube.com/user/decodercan","source":"https://raw.githubusercontent.com/hlaCk/screensharediscord/master/serverscreenshare.plugin.js"}*//
 var serverscreensharePlugin = function () {
 };
 serverscreensharePlugin.prototype.start = function () {
